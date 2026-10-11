@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm Coby Kassner. I am interested in AI strategy and futurism. I'm currently studying at Yale.
 
 <!--
 **cobylk/cobylk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
